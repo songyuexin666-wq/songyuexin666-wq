@@ -36,18 +36,18 @@ A detector-internal reliability framework for underground scenes affected by low
 - Code: [Spectral-DETR](https://github.com/songyuexin666-wq/Spectral-DETR)
 - Dataset: [Mine-Objects](https://github.com/songyuexin666-wq/mine-datasets)
 
-### Physics-Aware Video Generation
+### [Physics-Aware Video Generation](https://github.com/songyuexin666-wq/Physics-Aware-Video-Generation)
 **State-conditioned control and localized regeneration for physically consistent video generation**
 
 This project studies how explicit physical states and intervention signals can guide frozen video diffusion models. The current focus is on learning reliable **latent-level control directions**, identifying causally affected regions, and performing localized regeneration while preserving identity and scene continuity.
 
-### Infrared-Visible Multimodal Detection
+### [Infrared-Visible Multimodal Detection](https://github.com/songyuexin666-wq/IR-Visible-Detection)
 Research on infrared-visible object detection under challenging illumination and sensing conditions, with emphasis on **query-level evidence selection, multimodal fusion, and localization reliability**.
 
 ### RGB-LiDAR Semantic Segmentation
 Cross-modal semantic segmentation using RGB images and LiDAR point clouds, exploring **cross-attention, projection-aware fusion, local context aggregation, and multi-scale feature integration**.
 
-### VDocRAG++
+### [VDocRAG++](https://github.com/songyuexin666-wq/VDocRAG-)
 A region-aware visual document retrieval framework combining **page-level retrieval, region-level retrieval, layout-aware reasoning, and visual-language representations**.
 
 ---
@@ -74,10 +74,10 @@ Yuexin Song, Lukang Dai, Xinqi Xu, Jun Yang
 | Project | Topic | Status |
 | --- | --- | --- |
 | [Spectral-DETR](https://github.com/songyuexin666-wq/Spectral-DETR) | Robust underground object detection | Published |
-| Physics-Aware Video Generation | Controllable and physically consistent video generation | Ongoing |
-| IR-Visible Detection | Multimodal infrared-visible perception | Ongoing |
+| [Physics-Aware Video Generation](https://github.com/songyuexin666-wq/Physics-Aware-Video-Generation) | Controllable and physically consistent video generation | Ongoing |
+| [IR-Visible Detection](https://github.com/songyuexin666-wq/IR-Visible-Detection) | Multimodal infrared-visible perception | Ongoing |
 | RGB-LiDAR Segmentation | Cross-modal semantic segmentation | Research project |
-| VDocRAG++ | Visual document retrieval and reasoning | Research project |
+| [VDocRAG++](https://github.com/songyuexin666-wq/VDocRAG-) | Visual document retrieval and reasoning | Research project |
 | [Mine-Objects](https://github.com/songyuexin666-wq/mine-datasets) | Underground object detection dataset | Public |
 
 ---
